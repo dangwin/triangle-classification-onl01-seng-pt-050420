@@ -29,7 +29,6 @@ class Triangle
         return :scalene
       end
     elsif
-      if sum_one_two + sum_two_three = 0 
       raise TriangleError
     end
   end
